@@ -1,0 +1,29 @@
+{
+  "spacing": 0.05,
+  "steps": [
+    {
+      "key": "w",
+      "duration": 75.261,
+      "spacing": 6.374
+    },
+    {
+      "key": "x",
+      "duration": 0.196,
+      "spacing": 3.588
+    },
+    {
+      "key": "enter",
+      "duration": 0.1,
+      "spacing": 12.612
+    },
+    {
+      "key": "enter",
+      "duration": 0.1,
+      "spacing": 6.607
+    },
+    {
+      "key": "w",
+      "duration": 0.101
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+For overall efficiency, 861 224 889 ("Fastest Max Skill Points") is the top pick for active play. It's a short object-smash track that gives you a huge skill chain in 1.5 minutes per run, and with the 1998 Subaru Impreza 22B-STI (86,000 CR from Autoshow, Modify to S2) which has a 9x Skill Multiplier perk, each run is massively amplified. You restart immediately when it ends, so it loops very fast.
+
+If you use this settings, you can use flow.json directly after you start race (the time you press w for accelerating.). The script should auto restart the race.
+If you want to change a car, you should also change the duration of first w.

@@ -16,6 +16,11 @@ A cross-platform keystroke flow runner with global hotkeys, capture tools, and a
 - Windows/macOS/Linux
 
 ## Install
+### Recommend to use venv
+
+```bash
+python -m venv .venv
+```
 
 ```bash
 pip install -r requirements.txt
