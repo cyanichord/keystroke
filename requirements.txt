@@ -1,0 +1,4 @@
+PyQt6>=6.5.0
+pynput>=1.7.6
+elevate>=0.1.3
+pyuac>=0.0.3      ; sys_platform == "win32"
